@@ -1,9 +1,179 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "mealPlan": {
+    "Monday": {
+      "image": "https://i0.wp.com/chefsavvy.com/wp-content/uploads/fried-rice-air-fryer-recipe.jpg?resize=665%2C847&ssl=1",
+      "meal": "French beans, Carrot Fried Rice and Beef in Peanut Sauce",
+      "ingredients": [
+        "2 handfuls chopped french beans",
+        "1 cup diced carrots",
+        "1 onion finely chopped",
+        "1 cup rice",
+        "1 tsp salted butter or margarine",
+        "2 cups water",
+        "1/2 tsp crushed garlic",
+        "1 tbsp. soy sauce",
+        "cooking oil",
+        "Salt",
+        "1 tsp royco"
+      ],
+      "preparation": [
+        "In a pot, heat oil. Add in your salt and add in your rice. Stir well. Add in your 2 cups of cold water. Cover and let it cook. When ready set aside.",
+        "In another pan, heat oil. Add in your butter or margarine. Now add in your onions and fry till soft. Add in your garlic and keep stirring.",
+        "Now add in your French beans and carrots and stir fry on low heat till soft. Add in your royco and salt. Stir for 2 minutes. Add in your cooked rice and give a good mix.",
+        "Finally, add in your soy sauce and mix well on high heat. Serve!"
+      ]
+    },
+    "Tuesday": {
+      "image": "https://i.pinimg.com/564x/d3/c9/39/d3c9399d40a266dab1c9c3bc195d7c6b.jpg",
+      "meal": "Chickpeas and Pasta",
+      "ingredients": [
+        "3 Tablespoon cooking oil",
+        "1 medium size onion chopped",
+        "2 medium carrots diced",
+        "Salt to taste",
+        "1 Tablespoon garlic crushed",
+        "1 tsp curry powder",
+        "1 tsp Royco or beef seasoning",
+        "2 cups or 1 Can boiled chickpeas (available in the supermarket)",
+        "4 blended tomatoes",
+        "4 cups of Water",
+        "2 cups Pasta",
+        "1 small bunch of dhania finely chopped"
+      ],
+      "preparation": [
+        "To a heated pan add cooking oil, onion, carrot, and salt. Fry on medium-high heat until the onions are soft and just start to caramelize. Then reduce the heat to medium or medium-low. Add garlic, curry powder, and Royco, and continue to fry on medium heat for about 1 to 2 minutes or until fragrant.",
+        "Now add the cooked chickpeas, blended tomatoes, and water and mix well. Cover the pot and bring it to a boil. Then reduce the heat to low and cook for about 15 minutes on low heat for the flavors to develop.",
+        "After 15 minutes, uncover the pot, increase the heat to medium, and bring it to a gentle boil. Add the pasta and more salt and cook uncovered on medium heat until the pasta is sort of cooked.",
+        "Please note by the time the pasta is cooked most of the water will be gone and you will be left with a creamy sauce. If the water cooks out faster and the pasta is still not cooked, add some boiling water to it. Please DO NOT add cold water. You can adjust the consistency of the sauce as per your liking whether you want it soupy or thick.",
+        "Turn off the stove. Garnish with finely chopped dhania. Mix well and serve."
+      ]
+    },
+    "Wednesday": {
+      "image": "https://i.pinimg.com/564x/e9/75/bd/e975bda4a653dd375889e4116d4a7c33.jpg",
+      "meal": "Maru Bhajia and Coleslaw",
+      "ingredients": [
+        "8 potatoes (Less starchy ones)",
+        "1 cup gram flour",
+        "3 tbsp plain flour",
+        "1 tbsp crushed garlic",
+        "1/2 tbsp crushed ginger",
+        "1 tbsp crushed green/red chillies",
+        "1 1/2 tsp turmeric",
+        "1 1/2 tsp red chilli powder",
+        "1 1/2 tsp salt (depending on taste)",
+        "1 tsp cumin powder",
+        "1/2 cup finely chopped coriander",
+        "1 1/4 cups cold water"
+      ],
+      "preparation": [
+        "Make the batter by mixing all the ingredients above (apart from the potatoes and cold water). Ensure you sieve your gram flour.",
+        "Add in the cold water, bit by bit to form a mixture that is almost like pancake batter. Not too thick or too runny.",
+        "Heat a large saucepan with salty water and bring to a boil.",
+        "Peel the potatoes and place them in cold water. Slice the potatoes thinly (thicker than crisps).",
+        "Boil the sliced potatoes in the salty water, a few at a time. You need to put each slice individually to avoid them from sticking together. You only need to part boil them (3 min should be fine). Ensure they don’t overcook or else they will start to mash up.",
+        "Once boiled, take them out and spread the slices on a board. This will cool them down and remove excess water.",
+        "Put some batter on the flat tray then add a layer of potatoes. After each layer keep putting the batter to ensure each slice is coated. The batter should stick to the potato slices and give them that slight marinade (hence why the consistency is key).",
+        "Heat a pan with oil to deep fry the coated bhajias.",
+        "Each slice you put in should float right back up. If it does not, the heat is too low. If the bhajia browns too quickly the heat is too high.",
+        "Place the slices in, one at a time to ensure they don’t stick to each other.",
+        "They will take about 3/4 minutes to fry to a golden crisp color. Use the skimmer to take the bhajias out, ensuring you drain out excess oil before placing them on some kitchen towel. Ready!"
+      ]
+    },
+    "Thursday": {
+      "image": "https://i.pinimg.com/564x/19/a3/74/19a374ffdd8db1a6ffe5486495e3f4cd.jpg",
+      "meal": "Lentils and Rice Mix",
+      "ingredients": [
+        "1 cup lentils",
+        "1 Cup basmati Rice",
+        "2 medium size onions chopped",
+        "1 Tablespoon ginger",
+        "1 Tablespoon garlic",
+        "3 blended tomatoes",
+        "1 tsp Cumin powder",
+        "1 tsp Coriander powder",
+        "Salt to taste",
+        "2 Cups Water",
+        "Freshly Ground Black Pepper to taste"
+      ],
+      "preparation": [
+        "Wash and soak the lentils for at least 4 to 6 hours (or overnight) until the lentils are very tender. Thoroughly wash the rice until the water runs clear and soak for 20 minutes.",
+        "Heat a pan, add cooking oil, onion and 1/2 tsp salt. Adding salt to the onions will help release water and help it cook faster. Fry the onion on medium-high heat until it starts to caramelize. Once caramelized, reduce the heat to medium to medium-low heat and add finely chopped ginger and garlic. Fry until onions are nicely browned (be careful not to burn the onion).",
+        "Once the onion is caramelized, add the blended tomatoes and spices. Give it a good mix. Add the soaked lentil and rice, along with salt and water. Cover and bring to a vigorous boil. Once it starts boiling, reduce the heat to low and cook for about 25 to 30 minutes.",
+        "Uncover and check to see if the rice and lentils are cooked (it should be cooked by now, if it’s not, cover and cook it for a bit longer). Now continue to cook UNCOVERED for another 1 to 2 minutes on low heat to get rid of any excess moisture. Turn off the heat.",
+        "Add black pepper. Mix very gently, the rice is delicate at this point and we don't want to break it. Cover and let it sit for 5 minutes before serving."
+      ]
+    },
+    "Friday": {
+      "image": "https://i.pinimg.com/564x/2f/e5/fc/2fe5fca3af0bc93446f3e02e284cead3.jpg",
+      "meal": "Oven Baked Tilapia and Plantains",
+      "ingredients": [
+        "1 Tilapia cleaned",
+        "¼ Cup Oil",
+        "1 tsp curry powder",
+        "1 tsp Onion powder",
+        "½ tsp Black pepper powder",
+        "1 tsp Paprika powder",
+        "1 tsp Cumin powder",
+        "1 tsp Salt",
+        "2 tsp beef cubes",
+        "½ tbsp Ginger Garlic Paste"
+      ],
+      "preparation": [
+        "In a small bowl, mix all the ingredients till well combined. Pat dry the fish. Making deep slant cuts on both sides.",
+        "Now coat all the fish with the marinade making sure it gets deep into the cuts and inside the belly of the fish. Save some of the marinade for basting. Cover and let it marinate for 30 minutes.",
+        "About 10 minutes before the marinating time is over, preheat the oven at 200 degrees Celsius for 10 minutes. Line the baking tray with parchment paper or foil and place the wire rack on.",
+        "Place the fish on the rack and transfer to the oven in the middle rack. Broil or grill at 200 degrees for 10 minutes on each side.",
+        "In the bowl with the remaining marinade, add 2 tbsp of oil.",
+        "After 10 minutes, take the fish out and baste it with the remaining marinade before flipping. Then baste the flipped side again with marinade before grilling.",
+        "Put the fish into the oven again and let it broil or grill for another 10 minutes. Take fish out of the oven. Serve."
+      ]
+    },
+    "Saturday": {
+      "image": "https://i.pinimg.com/564x/f8/3a/55/f83a555f20494ed86345190f30ca78e3.jpg",
+      "meal": "Pumpkin Chapati",
+      "ingredients": [
+        "3 cups of all-purpose flour",
+        "1 cup of warm water",
+        "Pumpkin",
+        "1 block of margarine",
+        "Vegetable oil",
+        "1 teaspoon of salt",
+        "1 teaspoon of sugar"
+      ],
+      "preparation": [
+        "Peel the pumpkin. Then dice the pumpkin into cubes.",
+        "Put the diced pumpkin in a sufuria, add water and put it on fire to boil until ready.",
+        "After the pumpkin is ready, put it aside to cool. Then blend it with the water it boiled with, or smash it.",
+        "Put the flour in a separate bowl, add margarine, salt, sugar, and a cup of blended pumpkin, then mix it with water.",
+        "Mix the dough until smooth. Then cut it into round balls.",
+        "Start rolling the balls one by one with a rolling pin, adding oil each time you roll.",
+        "On a hot pan, put the chapati to cook, making sure both sides are ready before you remove them.",
+        "Serve."
+      ]
+    },
+    "Sunday": {
+      "image": "https://i.pinimg.com/564x/af/1f/c9/af1fc96ca6cd76c02fde40deb2dd03ca.jpg",
+      "meal": "Wet Fry Beef Stew",
+      "ingredients": [
+        "1/2 kg Beef",
+        "Salt to taste",
+        "1/2 tsp Cumin",
+        "1/2 tsp Paprika",
+        "2 Blended Tomatoes",
+        "1 Onion",
+        "Garlic to taste",
+        "1 tsp Soy sauce",
+        "2 tsp Worcestershire Sauce",
+        "Cooking Oil"
+      ],
+      "preparation": [
+        "Put beef in a sufuria, add salt, and a bit of water, and boil till ready.",
+        "Set it aside. In another sufuria, add cooking oil, onion, garlic, and blended tomatoes, and fry.",
+        "Add beef in the mix, soy sauce, Worcestershire sauce, and a bit of water, and let it simmer for a while.",
+        "Add paprika, and cumin, stir and remove from heat. Serve with ugali."
+      ]
+    }
+  }
 }
+    
+
